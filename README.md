@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently a PhD candidate at UCLA in Dr. Stephanie Correa's lab studying the signaling mechanisms underlying the effects of circulating estrogens on energy balance and torpor in mice. Here, I share code and protocols from my published research works!
 
 <!--
 **pbvander/pbvander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
